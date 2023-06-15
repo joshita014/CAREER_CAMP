@@ -46,7 +46,7 @@ app.use(
     },
     store: MongoStore.create({
       mongoUrl:
-        "mongodb+srv://joshita014:xJP9zYw4cVVbgrCc@cluster0.xeqmpkl.mongodb.net/",
+      process.env.MONGO_URL ,
       autoRemove: "disabled",
     }),
     function(err) {

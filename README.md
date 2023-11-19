@@ -1,4 +1,3 @@
-
 Hii !!
 My name is Joshita and below is the description about my project CAREER CAMP
 
@@ -52,3 +51,5 @@ The CAREER CAMP is a Full Stack Application built using MongoDB, ExpressJS, Node
 - passport
 - passport-jwt
 - passport-local
+
+## Hosted URL: https://career-camp-final.onrender.com
